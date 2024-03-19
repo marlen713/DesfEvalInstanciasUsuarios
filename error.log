@@ -1,0 +1,12 @@
+Error al procesar línea: {"nombre": "Marj", "apellido": "Impy", email": "mimpy5@youku.com", "genero": "Non-binary"}
+
+Error: Expecting property name enclosed in double quotes: line 1 column 40 (char 39)
+Error al procesar línea: {"nombre": "Robena", "apellido": "Selcraig", "email": "rselcraig7@jugem.jp", "genero": Female}
+
+Error: Expecting value: line 1 column 88 (char 87)
+Error al procesar línea: {"nombre": "Marj", "apellido": "Impy", email": "mimpy5@youku.com", "genero": "Non-binary"}
+
+Error: Expecting property name enclosed in double quotes: line 1 column 40 (char 39)
+Error al procesar línea: {"nombre": "Robena", "apellido": "Selcraig", "email": "rselcraig7@jugem.jp", "genero": Female}
+
+Error: Expecting value: line 1 column 88 (char 87)
